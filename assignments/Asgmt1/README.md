@@ -2,7 +2,7 @@
 
 ```
 $ cmake CMakeList.txt
-# make
+$ make
 ```
 
 ### To run:
